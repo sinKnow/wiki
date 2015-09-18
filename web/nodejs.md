@@ -1,10 +1,18 @@
 NodeJS 学习
 =======
 
-资料归集
+node.js简介
 ---------
->React Native 简单教程(IOS) [http://www.oschina.net/translate/going-native-with-react](http://www.oschina.net/translate/going-native-with-react "React Native 简单教程(IOS)")
+    Node.js是一个基于Chrome JavaScript运行时建立的平台， 用于方便地搭建响应速度快、易于扩展的网络应用。Node.js 使用事件驱动， 非阻塞I/O模型而得以轻量和高效，非常适合在分布式设备上运行的数据密集型的实时应用。
 
+    Node.js的优点
+    1、nodejs作为一个新兴的后台语言，有很多吸引人的地方：
+    2、RESTful API 
+    3、单线程
+        Node.js可以在不新增额外线程的情况下，依然可以对任务进行并行处理 —— Node.js是单线程的。它通过事件轮询（event loop）来实现并行操作，对此，我们应该要充分利用这一点 —— 尽可能的避免阻塞操作，取而代之，多使用非阻塞操作。
+    4、非阻塞IO
+    5、V8虚拟机
+    6、事件驱动[4]  
 
 个人笔记
 ---------
