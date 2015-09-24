@@ -8,6 +8,7 @@
 
 [前端开发]()
 
+  * [JavaScript](web/javascript.md)
   * [NodeJS](web/nodejs.md)
 
 [后端开发](working.md)
